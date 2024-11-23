@@ -1,0 +1,749 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d4" for="edge" attr.name="description" attr.type="string"/>
+<key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;PEOPLE'S REPUBLIC OF CHINA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"The People's Republic of China is the country where the Personal Information Protection Law was adopted and applies."&lt;SEP&gt;"The People's Republic of China is the geographical location where the regulations regarding personal information processing apply."&lt;SEP&gt;"The People's Republic of China is the sovereign state where the laws and regulations regarding personal information processing are enforced.  It's the geographical location where data must be stored unless specific exceptions apply."</data>
+  <data key="d2">chunk-b2a8064a6294712d680163c4e5f2b061&lt;SEP&gt;chunk-34e103dd49e0435199d7ba0070490fa3&lt;SEP&gt;chunk-124263e81aa4861b3ff954415c389034</data>
+</node>
+<node id="&quot;13TH NATIONAL PEOPLE'S CONGRESS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The 13th National People's Congress is the legislative body that adopted the Personal Information Protection Law."</data>
+  <data key="d2">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</node>
+<node id="&quot;STANDING COMMITTEE OF THE 13TH NATIONAL PEOPLE'S CONGRESS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Standing Committee of the 13th National People's Congress is the body that held the 30th meeting where the law was adopted."</data>
+  <data key="d2">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</node>
+<node id="&quot;XI JINPING&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Xi Jinping is the President of the People's Republic of China who promulgated the Personal Information Protection Law."</data>
+  <data key="d2">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</node>
+<node id="&quot;PERSONAL INFORMATION PROTECTION LAW OF THE PEOPLE'S REPUBLIC OF CHINA&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"This is the law itself, adopted to protect personal information rights and interests, regulate the processing of personal information, and promote the reasonable use of personal information."</data>
+  <data key="d2">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</node>
+<node id="&quot;AUGUST 20, 2021&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"This is the date the Personal Information Protection Law was adopted and promulgated."</data>
+  <data key="d2">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</node>
+<node id="&quot;NOVEMBER 1, 2021&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"This is the date the Personal Information Protection Law came into force."&lt;SEP&gt;"This is the date the law came into force."</data>
+  <data key="d2">chunk-e892165d5d39fe39325131368a7c8e29&lt;SEP&gt;chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</node>
+<node id="&quot;NATURAL PERSON&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"An individual, as opposed to an organization."&lt;SEP&gt;"Refers to any individual whose personal information is protected under the law."</data>
+  <data key="d2">chunk-e892165d5d39fe39325131368a7c8e29&lt;SEP&gt;chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</node>
+<node id="&quot;ORGANIZATION&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Any entity, including companies and government bodies, that processes personal information."</data>
+  <data key="d2">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</node>
+<node id="&quot;INDIVIDUAL&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A person whose personal information is being processed, possessing rights to consent, withdrawal of consent, and notification regarding data usage."&lt;SEP&gt;"An individual is a natural person whose personal information is subject to the regulations outlined in this text."&lt;SEP&gt;"Any person whose personal information is being processed, according to the legal framework described.  Their rights and interests are central to the regulations."&lt;SEP&gt;"Any single person, as opposed to an organization."</data>
+  <data key="d2">chunk-b2a8064a6294712d680163c4e5f2b061&lt;SEP&gt;chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3&lt;SEP&gt;chunk-34e103dd49e0435199d7ba0070490fa3&lt;SEP&gt;chunk-124263e81aa4861b3ff954415c389034</data>
+</node>
+<node id="&quot;MINOR&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A person under the age of 14, requiring special consent for processing their personal information."&lt;SEP&gt;"A person under the age of 14, whose personal information requires special handling and parental/guardian consent."</data>
+  <data key="d2">chunk-b2a8064a6294712d680163c4e5f2b061&lt;SEP&gt;chunk-124263e81aa4861b3ff954415c389034</data>
+</node>
+<node id="&quot;PARENT OR OTHER GUARDIAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Legal representative of a minor, required to give consent for processing the minor's personal information."</data>
+  <data key="d2">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</node>
+<node id="&quot;PERSONAL INFORMATION PROCESSOR&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"A legal entity or individual responsible for processing personal information, subject to the regulations outlined in the provided text.  This could encompass a wide range of organizations and individuals."&lt;SEP&gt;"A personal information processor is an entity (organization or individual) that processes personal information, subject to the regulations outlined in the text."&lt;SEP&gt;"A personal information processor is an entity that processes personal information and is subject to various regulations and obligations regarding data protection, including establishing emergency plans, designating a person in charge, conducting audits, and performing impact assessments."&lt;SEP&gt;"An entity responsible for processing personal information, subject to various regulations and obligations regarding data handling, consent, and notification."&lt;SEP&gt;"Any organization or individual responsible for processing personal information."&lt;SEP&gt;"Any organization or individual that independently determines the purpose and method of processing personal information."</data>
+  <data key="d2">chunk-124263e81aa4861b3ff954415c389034&lt;SEP&gt;chunk-e892165d5d39fe39325131368a7c8e29&lt;SEP&gt;chunk-16ff96468cd6ce50b600332542403f54&lt;SEP&gt;chunk-b2a8064a6294712d680163c4e5f2b061&lt;SEP&gt;chunk-34e103dd49e0435199d7ba0070490fa3&lt;SEP&gt;chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;MINOR (BELOW 14)&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A person under the age of 14, whose personal information requires parental or guardian consent for processing."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;PARENT OR GUARDIAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A legal guardian of a minor, responsible for providing consent for the processing of the minor's personal information."&lt;SEP&gt;"The legal guardian responsible for providing consent for the processing of a minor's personal information."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3&lt;SEP&gt;chunk-124263e81aa4861b3ff954415c389034</data>
+</node>
+<node id="&quot;ARTICLE 15&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Legal article outlining an individual's right to withdraw consent for personal information processing."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;ARTICLE 16&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Legal article prohibiting refusal of products or services based on consent for data processing, with exceptions."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;ARTICLE 17&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Legal article detailing the notification requirements for personal information processing."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;ARTICLE 18&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Legal article addressing exceptions to notification requirements for confidentiality or unnecessary information."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;ARTICLE 19&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Legal article specifying the minimum retention period for personal information."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;ARTICLE 20&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Legal article defining responsibilities when multiple processors jointly determine data processing."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;ARTICLE 21&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Legal article outlining rules for entrusting personal information processing to third parties."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;ARTICLE 22&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Legal article addressing personal information transfer during mergers, divisions, etc."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;ARTICLE 23&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Legal article governing the provision of personal information to other processors."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;ARTICLE 24&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Legal article addressing fairness and transparency in automatic decision-making using personal information."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;ARTICLE 25&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Legal article restricting disclosure of personal information unless consented to or legally required."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;ARTICLE 26&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Legal article regulating image capturing and personal identification equipment in public spaces."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;CONSENT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The act of granting permission for the processing of personal information."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;WITHDRAWAL OF CONSENT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The act of revoking previously given permission for the processing of personal information."</data>
+  <data key="d2">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</node>
+<node id="&quot;STATE CYBERSPACE ADMINISTRATION&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The State cyberspace administration is a government body in China responsible for overseeing the processing of personal information, conducting security assessments, and establishing regulations."&lt;SEP&gt;"The State cyberspace administration is a governmental body responsible for overseeing and regulating the processing and cross-border transfer of personal information in China.  It sets standards, conducts security assessments, and formulates contracts related to data protection."&lt;SEP&gt;"The state cyberspace administration determines which organization can file lawsuits against personal information processors violating the law."&lt;SEP&gt;"The state cyberspace administration is responsible for coordinating the protection of personal information and relevant supervision and administration work."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54&lt;SEP&gt;chunk-e892165d5d39fe39325131368a7c8e29&lt;SEP&gt;chunk-34e103dd49e0435199d7ba0070490fa3&lt;SEP&gt;chunk-124263e81aa4861b3ff954415c389034</data>
+</node>
+<node id="&quot;STATE ORGAN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"A State organ refers to a government entity within the People's Republic of China.  This law specifies how State organs are allowed to process personal information, subject to specific regulations and limitations to ensure compliance with data protection laws."&lt;SEP&gt;"A government body with responsibilities for personal information protection."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774&lt;SEP&gt;chunk-124263e81aa4861b3ff954415c389034</data>
+</node>
+<node id="&quot;OVERSEAS RECIPIENT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"An entity located outside the People's Republic of China that may receive personal information, subject to specific conditions and regulations."</data>
+  <data key="d2">chunk-124263e81aa4861b3ff954415c389034</data>
+</node>
+<node id="&quot;CRITICAL INFORMATION INFRASTRUCTURE OPERATORS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Organizations managing critical infrastructure whose data handling is subject to stringent regulations and security assessments for cross-border data transfer."</data>
+  <data key="d2">chunk-124263e81aa4861b3ff954415c389034</data>
+</node>
+<node id="&quot;FOREIGN JUDICIAL OR LAW ENFORCEMENT AGENCIES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Foreign judicial or law enforcement agencies are entities outside of China that may request personal information stored in China."&lt;SEP&gt;"Foreign judicial or law enforcement agencies are entities outside of China that may request personal information stored within China."</data>
+  <data key="d2">chunk-34e103dd49e0435199d7ba0070490fa3</data>
+</node>
+<node id="&quot;OVERSEAS ORGANIZATION OR INDIVIDUAL&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Overseas organizations or individuals are entities outside of China whose personal information processing activities may be subject to restrictions or prohibitions if they damage the personal information rights and interests of Chinese citizens or endanger national security or public interests."</data>
+  <data key="d2">chunk-34e103dd49e0435199d7ba0070490fa3</data>
+</node>
+<node id="&quot;COMPETENT AUTHORITY OF THE PEOPLE'S REPUBLIC OF CHINA&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"This refers to the government body or bodies within the People's Republic of China authorized to approve requests for personal information from foreign entities."</data>
+  <data key="d2">chunk-34e103dd49e0435199d7ba0070490fa3</data>
+</node>
+<node id="&quot;NEAR RELATIVES&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Near relatives are individuals related to a deceased person, who may exercise the deceased's rights to their personal information."</data>
+  <data key="d2">chunk-34e103dd49e0435199d7ba0070490fa3</data>
+</node>
+<node id="&quot;DECEASED&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A deceased natural person whose personal information rights may be exercised by their near relatives."</data>
+  <data key="d2">chunk-34e103dd49e0435199d7ba0070490fa3</data>
+</node>
+<node id="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"These departments are responsible for enforcing the personal information protection law, including formulating rules, conducting investigations, and handling complaints."&lt;SEP&gt;"These departments are responsible for protecting, supervising, and administering personal information within their respective duties, including publicity and education, complaint processing, and investigation of illegal activities."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774&lt;SEP&gt;chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;RELEVANT DEPARTMENTS UNDER THE STATE COUNCIL&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"These departments are responsible for protecting, supervising, and administering personal information within their respective duties in accordance with the provisions of this Law and relevant laws and administrative regulations."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;LOCAL PEOPLE'S GOVERNMENTS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Local people's governments at or above the county level have duties in protecting, supervising, and administering personal information as determined by relevant State provisions."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;PERSON IN CHARGE OF PERSONAL INFORMATION PROTECTION&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"This individual is responsible for supervising the processing of personal information and the adopted protection measures within a personal information processor."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;REPRESENTATIVE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A representative, designated by a personal information processor outside of China, is responsible for relevant matters of personal information protection within the territory of China."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;LAWS AND ADMINISTRATIVE REGULATIONS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The overarching legal framework governing personal information processing in the context of the document."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;PERSONAL INFORMATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Data related to an individual, subject to the protection measures and regulations outlined in the text."&lt;SEP&gt;"The data subject to protection under the law."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774&lt;SEP&gt;chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;SENSITIVE PERSONAL INFORMATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A subset of personal information with heightened protection needs, requiring specific processing considerations."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;AUTOMATIC DECISIONS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Decisions made based on automated processing of personal information, subject to impact assessment requirements."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;OVERSEAS PARTIES&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Entities outside the People's Republic of China, requiring specific considerations for data transfer and protection."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;PERSONAL INFORMATION PROTECTION IMPACT ASSESSMENT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A process for evaluating potential risks and impacts of processing personal information, as mandated by the regulations."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;PERSONAL INFORMATION LEAKAGE, FALSIFICATION, OR LOSS&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Events that require immediate remedial measures and notification to relevant parties."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;IMPORTANT INTERNET PLATFORM SERVICES&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Online services with significant user bases and complex operations, subject to enhanced personal information protection obligations."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;COMPLIANCE SYSTEM FOR PERSONAL INFORMATION PROTECTION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A system designed to ensure adherence to regulations and best practices for handling personal information."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;SOCIAL RESPONSIBILITY REPORT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A report on personal information protection practices, publicly released to foster accountability."</data>
+  <data key="d2">chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;ELECTRONIC IDENTITY AUTHENTICATION TECHNOLOGY&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"Technology used for secure and convenient online identity verification."&lt;SEP&gt;"Technology used for verifying online identities, promoted for enhancing security."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774&lt;SEP&gt;chunk-16ff96468cd6ce50b600332542403f54</data>
+</node>
+<node id="&quot;PERSONAL INFORMATION PROCESSORS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Organizations or individuals that process personal information, subject to the regulations and potential penalties outlined in the law."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;PUBLIC SECURITY ORGAN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The law enforcement agency responsible for handling criminal cases related to illegal personal information processing."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;PEOPLE'S PROCURATORATE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"A governmental body that may take action in cases of widespread personal information infringement."&lt;SEP&gt;"The people's procuratorate can file lawsuits against personal information processors violating the law."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774&lt;SEP&gt;chunk-e892165d5d39fe39325131368a7c8e29</data>
+</node>
+<node id="&quot;CONSUMER ORGANIZATIONS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Consumer organizations, as specified by law, can file lawsuits against personal information processors violating the law."&lt;SEP&gt;"Organizations that may be involved in addressing personal information infringements affecting a large number of individuals."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774&lt;SEP&gt;chunk-e892165d5d39fe39325131368a7c8e29</data>
+</node>
+<node id="&quot;LEGAL REPRESENTATIVE OR PERSON CHIEFLY IN CHARGE OF THE PERSONAL INFORMATION PROCESSOR&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The individual ultimately responsible for the actions of a personal information processor."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;THE PERSON DIRECTLY IN CHARGE OF THE PROCESSOR AND OTHER DIRECTLY LIABLE PERSONS&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Individuals directly responsible for illegal personal information processing within an organization."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;COMPLAINANTS&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Individuals who file complaints regarding illegal personal information processing."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;REPORTERS&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Individuals who report illegal personal information processing."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;SMALL PERSONAL INFORMATION PROCESSORS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Smaller organizations or individuals that process personal information, subject to specific regulations."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;RELEVANT ORGANIZATIONS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Organizations that provide assessment and certification services for personal information protection."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;PROFESSIONAL INSTITUTIONS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Organizations that conduct compliance audits of personal information processing activities."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;STAFF OF DEPARTMENTS RESPONSIBLE FOR PERSONAL INFORMATION PROTECTION&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Individuals working within departments responsible for personal information protection."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;INDIVIDUALS CONCERNED&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Individuals whose personal information has been affected by illegal processing."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;FACE RECOGNITION&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"A specific technology mentioned in the context of personal information protection."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;ARTIFICIAL INTELLIGENCE&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"A specific technology mentioned in the context of personal information protection."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;SOCIALIZED SERVICE SYSTEM FOR PROTECTING PERSONAL INFORMATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A system designed to support the protection of personal information."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;CREDIT ARCHIVES&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Records of illegal activities related to personal information processing."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;RELEVANT LAWS AND ADMINISTRATIVE REGULATIONS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Existing legal frameworks related to personal information and credit records."</data>
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+</node>
+<node id="&quot;PEOPLE'S COURT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The people's court is responsible for determining compensation amounts in cases of personal information processing violations."</data>
+  <data key="d2">chunk-e892165d5d39fe39325131368a7c8e29</data>
+</node>
+<node id="&quot;PEOPLE'S GOVERNMENTS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Governments at all levels, responsible for statistical and archive administration."</data>
+  <data key="d2">chunk-e892165d5d39fe39325131368a7c8e29</data>
+</node>
+<node id="&quot;RELEVANT DEPARTMENTS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Departments within the people's governments involved in statistical and archive administration."</data>
+  <data key="d2">chunk-e892165d5d39fe39325131368a7c8e29</data>
+</node>
+<node id="&quot;ILLEGAL ACT&quot;">
+  <data key="d2">chunk-737a538d85e2897e75f31df035b55774</data>
+  <data key="d1">"Illegal acts are recorded in credit archives."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<edge source="&quot;PEOPLE'S REPUBLIC OF CHINA&quot;" target="&quot;PERSONAL INFORMATION PROTECTION LAW OF THE PEOPLE'S REPUBLIC OF CHINA&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"The law applies within the territory of the People's Republic of China."</data>
+  <data key="d5">"law jurisdiction, geographical scope"</data>
+  <data key="d6">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</edge>
+<edge source="&quot;PEOPLE'S REPUBLIC OF CHINA&quot;" target="&quot;STATE CYBERSPACE ADMINISTRATION&quot;">
+  <data key="d3">29.0</data>
+  <data key="d4">"The State cyberspace administration is a governmental organization within the People's Republic of China, responsible for regulating personal information processing within its territory."&lt;SEP&gt;"The State cyberspace administration operates within and enforces regulations across the People's Republic of China regarding personal information processing."</data>
+  <data key="d5">"governance, jurisdiction"&lt;SEP&gt;"jurisdiction, governance"</data>
+  <data key="d6">chunk-34e103dd49e0435199d7ba0070490fa3&lt;SEP&gt;chunk-124263e81aa4861b3ff954415c389034</data>
+</edge>
+<edge source="&quot;PEOPLE'S REPUBLIC OF CHINA&quot;" target="&quot;STATE ORGAN&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"State organs operate within the People's Republic of China and are subject to its laws regarding personal information processing."</data>
+  <data key="d5">"governance, geographic location"</data>
+  <data key="d6">chunk-124263e81aa4861b3ff954415c389034</data>
+</edge>
+<edge source="&quot;PEOPLE'S REPUBLIC OF CHINA&quot;" target="&quot;FOREIGN JUDICIAL OR LAW ENFORCEMENT AGENCIES&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"The People's Republic of China handles requests from foreign judicial or law enforcement agencies for personal information stored within its territory according to its laws and international agreements.  This relationship is subject to approval from competent authorities within the PRC."</data>
+  <data key="d5">"international cooperation, data sharing"</data>
+  <data key="d6">chunk-34e103dd49e0435199d7ba0070490fa3</data>
+</edge>
+<edge source="&quot;PEOPLE'S REPUBLIC OF CHINA&quot;" target="&quot;OVERSEAS ORGANIZATION OR INDIVIDUAL&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"The People's Republic of China may take measures against overseas organizations or individuals whose actions damage the rights of Chinese citizens or endanger national security."</data>
+  <data key="d5">"national security, legal protection"</data>
+  <data key="d6">chunk-34e103dd49e0435199d7ba0070490fa3</data>
+</edge>
+<edge source="&quot;13TH NATIONAL PEOPLE'S CONGRESS&quot;" target="&quot;PERSONAL INFORMATION PROTECTION LAW OF THE PEOPLE'S REPUBLIC OF CHINA&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"The 13th National People's Congress is the legislative body to which the Standing Committee belongs, and thus indirectly involved in the law's adoption."</data>
+  <data key="d5">"legislative process, hierarchical relationship"</data>
+  <data key="d6">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</edge>
+<edge source="&quot;STANDING COMMITTEE OF THE 13TH NATIONAL PEOPLE'S CONGRESS&quot;" target="&quot;PERSONAL INFORMATION PROTECTION LAW OF THE PEOPLE'S REPUBLIC OF CHINA&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"The Standing Committee adopted the Personal Information Protection Law at its 30th meeting."</data>
+  <data key="d5">"law adoption, legislative process"</data>
+  <data key="d6">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</edge>
+<edge source="&quot;XI JINPING&quot;" target="&quot;PERSONAL INFORMATION PROTECTION LAW OF THE PEOPLE'S REPUBLIC OF CHINA&quot;">
+  <data key="d3">20.0</data>
+  <data key="d4">"Xi Jinping, as President, promulgated the law."</data>
+  <data key="d5">"law promulgation, executive action"</data>
+  <data key="d6">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROTECTION LAW OF THE PEOPLE'S REPUBLIC OF CHINA&quot;" target="&quot;AUGUST 20, 2021&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The law was adopted and promulgated on this date."</data>
+  <data key="d5">"law enactment, timeline"</data>
+  <data key="d6">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROTECTION LAW OF THE PEOPLE'S REPUBLIC OF CHINA&quot;" target="&quot;NOVEMBER 1, 2021&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The law came into force on this date."</data>
+  <data key="d5">"law enforcement, timeline"</data>
+  <data key="d6">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</edge>
+<edge source="&quot;NATURAL PERSON&quot;" target="&quot;PERSONAL INFORMATION PROCESSOR&quot;">
+  <data key="d3">12.0</data>
+  <data key="d4">"A natural person can also be a personal information processor, but only in the context of their personal or family affairs."&lt;SEP&gt;"Processors are responsible for the security and ethical handling of a natural person's personal information."</data>
+  <data key="d5">"data protection, responsibility"&lt;SEP&gt;"legal exception, personal scope"</data>
+  <data key="d6">chunk-e892165d5d39fe39325131368a7c8e29&lt;SEP&gt;chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</edge>
+<edge source="&quot;INDIVIDUAL&quot;" target="&quot;PERSONAL INFORMATION PROCESSOR&quot;">
+  <data key="d3">35.0</data>
+  <data key="d4">"Personal information processors collect, process, and store the personal information of individuals, subject to the regulations and rights of the individuals."&lt;SEP&gt;"The personal information processor processes the personal information of the individual, requiring the individual's consent and notification of data usage."&lt;SEP&gt;"The personal information processor processes the personal information of the individual, subject to the consent of the individual and various legal requirements."&lt;SEP&gt;"The processor handles the individual's data; the individual has rights regarding that data."</data>
+  <data key="d5">"Data handling, individual rights"&lt;SEP&gt;"data processing, consent"&lt;SEP&gt;"data processing, consent, notification"&lt;SEP&gt;"data processing, individual rights"</data>
+  <data key="d6">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3&lt;SEP&gt;chunk-34e103dd49e0435199d7ba0070490fa3&lt;SEP&gt;chunk-124263e81aa4861b3ff954415c389034</data>
+</edge>
+<edge source="&quot;INDIVIDUAL&quot;" target="&quot;WITHDRAWAL OF CONSENT&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The individual can revoke previously granted consent."</data>
+  <data key="d5">"Consent revocation, data control"</data>
+  <data key="d6">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</edge>
+<edge source="&quot;INDIVIDUAL&quot;" target="&quot;NEAR RELATIVES&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Upon the death of an individual, their near relatives may exercise certain rights related to the deceased's personal information."</data>
+  <data key="d5">"inheritance, data rights"</data>
+  <data key="d6">chunk-34e103dd49e0435199d7ba0070490fa3</data>
+</edge>
+<edge source="&quot;MINOR&quot;" target="&quot;PERSONAL INFORMATION PROCESSOR&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"Processors must obtain consent from the minor's parent or guardian before processing a minor's personal information."&lt;SEP&gt;"The personal information processor must obtain consent from the parent or guardian before processing a minor's personal information."</data>
+  <data key="d5">"data protection, consent"&lt;SEP&gt;"data protection, consent, minors"</data>
+  <data key="d6">chunk-b2a8064a6294712d680163c4e5f2b061&lt;SEP&gt;chunk-124263e81aa4861b3ff954415c389034</data>
+</edge>
+<edge source="&quot;MINOR&quot;" target="&quot;PARENT OR OTHER GUARDIAN&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Parents or guardians have legal responsibility for consenting to the processing of a minor's personal information."</data>
+  <data key="d5">"legal guardianship, consent"</data>
+  <data key="d6">chunk-b2a8064a6294712d680163c4e5f2b061</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSOR&quot;" target="&quot;MINOR (BELOW 14)&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The personal information processor must obtain consent from the minor's parent or guardian before processing the minor's personal information."</data>
+  <data key="d5">"parental consent, data protection"</data>
+  <data key="d6">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSOR&quot;" target="&quot;CONSENT&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The processor requires consent before processing data in most cases."</data>
+  <data key="d5">"Consent, data processing"</data>
+  <data key="d6">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSOR&quot;" target="&quot;ARTICLE 17&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The processor must follow the notification requirements in Article 17."</data>
+  <data key="d5">"Legal obligation, notification"</data>
+  <data key="d6">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSOR&quot;" target="&quot;ARTICLE 20&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Article 20 details the responsibilities of multiple processors."</data>
+  <data key="d5">"Joint responsibility, data processing"</data>
+  <data key="d6">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSOR&quot;" target="&quot;OVERSEAS RECIPIENT&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"A personal information processor may transfer personal information to an overseas recipient only under specific conditions and with appropriate safeguards."</data>
+  <data key="d5">"data transfer, cross-border"</data>
+  <data key="d6">chunk-124263e81aa4861b3ff954415c389034</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSOR&quot;" target="&quot;STATE CYBERSPACE ADMINISTRATION&quot;">
+  <data key="d3">40.0</data>
+  <data key="d4">"Personal information processors are subject to the supervision and administration of the state cyberspace administration."&lt;SEP&gt;"The State cyberspace administration regulates and oversees the activities of personal information processors, including cross-border data transfers."&lt;SEP&gt;"The State cyberspace administration sets regulations and requirements for personal information processors, including security assessments and data storage locations."&lt;SEP&gt;"The state cyberspace administration designates an organization to file lawsuits against violating personal information processors."&lt;SEP&gt;"The state cyberspace administration oversees personal information processors and their compliance with the law."</data>
+  <data key="d5">"legal authority, oversight"&lt;SEP&gt;"regulation, compliance"&lt;SEP&gt;"regulation, oversight"&lt;SEP&gt;"regulatory oversight, compliance"</data>
+  <data key="d6">chunk-16ff96468cd6ce50b600332542403f54&lt;SEP&gt;chunk-e892165d5d39fe39325131368a7c8e29&lt;SEP&gt;chunk-34e103dd49e0435199d7ba0070490fa3&lt;SEP&gt;chunk-124263e81aa4861b3ff954415c389034</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSOR&quot;" target="&quot;PERSON IN CHARGE OF PERSONAL INFORMATION PROTECTION&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"A personal information processor designates a person in charge to supervise personal information processing and protection measures."</data>
+  <data key="d5">"responsibility, supervision"</data>
+  <data key="d6">chunk-16ff96468cd6ce50b600332542403f54</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSOR&quot;" target="&quot;REPRESENTATIVE&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"A personal information processor outside China designates a representative within China to handle personal information protection matters."</data>
+  <data key="d5">"representation, compliance"</data>
+  <data key="d6">chunk-16ff96468cd6ce50b600332542403f54</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSOR&quot;" target="&quot;LAWS AND ADMINISTRATIVE REGULATIONS&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Personal information processors must comply with all applicable laws and administrative regulations regarding personal information processing."</data>
+  <data key="d5">"compliance, legal framework"</data>
+  <data key="d6">chunk-16ff96468cd6ce50b600332542403f54</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSOR&quot;" target="&quot;PEOPLE'S COURT&quot;">
+  <data key="d3">17.0</data>
+  <data key="d4">"A personal information processor who violates the law may face legal action in the people's court."&lt;SEP&gt;"The people's court determines compensation amounts in cases where a personal information processor violates the law."</data>
+  <data key="d5">"legal accountability, judicial process"&lt;SEP&gt;"legal recourse, compensation"</data>
+  <data key="d6">chunk-e892165d5d39fe39325131368a7c8e29</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSOR&quot;" target="&quot;PEOPLE'S PROCURATORATE&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"A personal information processor who violates the law may face legal action from the people's procuratorate."&lt;SEP&gt;"The people's procuratorate can file lawsuits against personal information processors for violating the law."</data>
+  <data key="d5">"legal accountability, judicial process"&lt;SEP&gt;"legal action, violation of law"</data>
+  <data key="d6">chunk-e892165d5d39fe39325131368a7c8e29</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSOR&quot;" target="&quot;CONSUMER ORGANIZATIONS&quot;">
+  <data key="d3">17.0</data>
+  <data key="d4">"A personal information processor who violates the law may face legal action from consumer organizations."&lt;SEP&gt;"Consumer organizations can file lawsuits against personal information processors for violating the law."</data>
+  <data key="d5">"legal accountability, consumer protection"&lt;SEP&gt;"legal action, violation of law"</data>
+  <data key="d6">chunk-e892165d5d39fe39325131368a7c8e29</data>
+</edge>
+<edge source="&quot;MINOR (BELOW 14)&quot;" target="&quot;PARENT OR GUARDIAN&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"The parent or guardian provides consent for the processing of the minor's personal information."</data>
+  <data key="d5">"parental consent, legal guardianship"</data>
+  <data key="d6">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</edge>
+<edge source="&quot;ARTICLE 15&quot;" target="&quot;WITHDRAWAL OF CONSENT&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Article 15 legally defines the right to withdrawal of consent."</data>
+  <data key="d5">"Legal basis, consent"</data>
+  <data key="d6">chunk-8ff4e3011eeb0855c4ad54f1eb00bbe3</data>
+</edge>
+<edge source="&quot;STATE CYBERSPACE ADMINISTRATION&quot;" target="&quot;STATE ORGAN&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The State cyberspace administration sets standards and regulations that govern how State organs process personal information within the People's Republic of China."</data>
+  <data key="d5">"regulation, oversight"</data>
+  <data key="d6">chunk-124263e81aa4861b3ff954415c389034</data>
+</edge>
+<edge source="&quot;STATE CYBERSPACE ADMINISTRATION&quot;" target="&quot;CRITICAL INFORMATION INFRASTRUCTURE OPERATORS&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Critical information infrastructure operators are subject to the regulations and security assessments of the State cyberspace administration regarding cross-border data transfers."</data>
+  <data key="d5">"regulation, security"</data>
+  <data key="d6">chunk-124263e81aa4861b3ff954415c389034</data>
+</edge>
+<edge source="&quot;STATE CYBERSPACE ADMINISTRATION&quot;" target="&quot;OVERSEAS ORGANIZATION OR INDIVIDUAL&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"The State cyberspace administration can restrict or prohibit the provision of personal information to overseas organizations or individuals who violate Chinese regulations."</data>
+  <data key="d5">"regulation, restriction"</data>
+  <data key="d6">chunk-34e103dd49e0435199d7ba0070490fa3</data>
+</edge>
+<edge source="&quot;STATE CYBERSPACE ADMINISTRATION&quot;" target="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The state cyberspace administration coordinates the work of the departments performing duties of personal information protection."</data>
+  <data key="d5">"coordination, supervision"</data>
+  <data key="d6">chunk-16ff96468cd6ce50b600332542403f54</data>
+</edge>
+<edge source="&quot;STATE ORGAN&quot;" target="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The departments may order rectification and impose sanctions on state organs that fail to perform their personal information protection obligations."</data>
+  <data key="d5">"oversight, sanction"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;FOREIGN JUDICIAL OR LAW ENFORCEMENT AGENCIES&quot;" target="&quot;COMPETENT AUTHORITY OF THE PEOPLE'S REPUBLIC OF CHINA&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The competent authority approves or denies requests from foreign judicial or law enforcement agencies for access to personal information stored in China."</data>
+  <data key="d5">"approval, access control"</data>
+  <data key="d6">chunk-34e103dd49e0435199d7ba0070490fa3</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;RELEVANT DEPARTMENTS UNDER THE STATE COUNCIL&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Relevant departments under the State Council are part of the departments performing duties of personal information protection."</data>
+  <data key="d5">"organizational structure, responsibility"</data>
+  <data key="d6">chunk-16ff96468cd6ce50b600332542403f54</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;LOCAL PEOPLE'S GOVERNMENTS&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Local people's governments are included among the departments performing duties of personal information protection."</data>
+  <data key="d5">"organizational structure, responsibility"</data>
+  <data key="d6">chunk-16ff96468cd6ce50b600332542403f54</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;PERSONAL INFORMATION LEAKAGE, FALSIFICATION, OR LOSS&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"In case of data breaches, the processor must inform the relevant departments."</data>
+  <data key="d5">"reporting, accountability"</data>
+  <data key="d6">chunk-16ff96468cd6ce50b600332542403f54</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;PERSONAL INFORMATION PROCESSORS&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"The departments oversee and regulate the activities of personal information processors, enforcing compliance with the law and issuing penalties for violations.  They investigate and take action against those who violate the law."</data>
+  <data key="d5">"regulation, enforcement, penalty"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;PUBLIC SECURITY ORGAN&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"The departments refer criminal cases related to illegal personal information processing to the public security organ for legal action."</data>
+  <data key="d5">"case referral, criminal justice"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;PEOPLE'S PROCURATORATE&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"The departments may collaborate with or report to the People's procuratorate in cases of widespread personal information infringement affecting numerous individuals."</data>
+  <data key="d5">"collaboration, legal action"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;LEGAL REPRESENTATIVE OR PERSON CHIEFLY IN CHARGE OF THE PERSONAL INFORMATION PROCESSOR&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"The departments may interview the legal representative to investigate potential violations or security incidents."</data>
+  <data key="d5">"investigation, compliance"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;COMPLAINANTS&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Departments receive and process complaints from complainants regarding illegal personal information processing."</data>
+  <data key="d5">"complaint handling, redress"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;REPORTERS&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Departments receive and process reports from reporters regarding illegal personal information processing."</data>
+  <data key="d5">"report handling, redress"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;SMALL PERSONAL INFORMATION PROCESSORS&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The departments create specific rules and standards for small personal information processors."</data>
+  <data key="d5">"rulemaking, guidance"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;RELEVANT ORGANIZATIONS&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"The departments support relevant organizations in carrying out assessment and certification services."</data>
+  <data key="d5">"support, collaboration"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;STAFF OF DEPARTMENTS RESPONSIBLE FOR PERSONAL INFORMATION PROTECTION&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The departments are responsible for the actions of their staff and may impose sanctions for misconduct. "</data>
+  <data key="d5">"accountability, sanction"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;PERSONAL INFORMATION&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"The departments are responsible for protecting Personal Information according to the law."</data>
+  <data key="d5">"protection, enforcement"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;ELECTRONIC IDENTITY AUTHENTICATION TECHNOLOGY&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The departments support research and development of this technology."</data>
+  <data key="d5">"technology development, support"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;FACE RECOGNITION&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The departments create specific rules and standards for the use of Face Recognition in data processing."</data>
+  <data key="d5">"rulemaking, technology regulation"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;ARTIFICIAL INTELLIGENCE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The departments create specific rules and standards for the use of Artificial Intelligence in data processing."</data>
+  <data key="d5">"rulemaking, technology regulation"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;DEPARTMENTS PERFORMING DUTIES OF PERSONAL INFORMATION PROTECTION&quot;" target="&quot;SOCIALIZED SERVICE SYSTEM FOR PROTECTING PERSONAL INFORMATION&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The departments promote the development of this system."</data>
+  <data key="d5">"system development, promotion"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;SENSITIVE PERSONAL INFORMATION&quot;" target="&quot;PERSONAL INFORMATION PROTECTION IMPACT ASSESSMENT&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"An impact assessment is required before processing sensitive personal information."</data>
+  <data key="d5">"risk assessment, data protection"</data>
+  <data key="d6">chunk-16ff96468cd6ce50b600332542403f54</data>
+</edge>
+<edge source="&quot;IMPORTANT INTERNET PLATFORM SERVICES&quot;" target="&quot;COMPLIANCE SYSTEM FOR PERSONAL INFORMATION PROTECTION&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Important internet platforms must establish and maintain a robust compliance system for personal information protection."</data>
+  <data key="d5">"compliance, best practices"</data>
+  <data key="d6">chunk-16ff96468cd6ce50b600332542403f54</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSORS&quot;" target="&quot;THE PERSON DIRECTLY IN CHARGE OF THE PROCESSOR AND OTHER DIRECTLY LIABLE PERSONS&quot;">
+  <data key="d3">20.0</data>
+  <data key="d4">"The individuals named are directly responsible for the actions of the personal information processor, and will face penalties for violations."</data>
+  <data key="d5">"accountability, liability"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSORS&quot;" target="&quot;PROFESSIONAL INSTITUTIONS&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Personal information processors may be required to use professional institutions for compliance audits."</data>
+  <data key="d5">"compliance, auditing"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;PERSONAL INFORMATION PROCESSORS&quot;" target="&quot;INDIVIDUALS CONCERNED&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Personal information processors process personal information which may infringe on the rights of individuals concerned."</data>
+  <data key="d5">"data processing, infringement"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;CREDIT ARCHIVES&quot;" target="&quot;ILLEGAL ACT&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Illegal acts are recorded in credit archives."</data>
+  <data key="d5">"record keeping, public disclosure"</data>
+  <data key="d6">chunk-737a538d85e2897e75f31df035b55774</data>
+</edge>
+<edge source="&quot;PEOPLE'S GOVERNMENTS&quot;" target="&quot;RELEVANT DEPARTMENTS&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"The relevant departments are subordinate to the people's governments and share responsibility for statistical and archive administration."</data>
+  <data key="d5">"organizational structure, administrative responsibility"</data>
+  <data key="d6">chunk-e892165d5d39fe39325131368a7c8e29</data>
+</edge>
+</graph></graphml>

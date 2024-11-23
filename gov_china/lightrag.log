@@ -1,0 +1,69 @@
+2024-11-23 12:32:52,497 - lightrag - INFO - Logger initialized for working directory: ./gov_china
+2024-11-23 12:32:52,498 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-23 12:32:52,498 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-23 12:32:52,498 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-23 12:32:52,499 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-23 12:32:52,750 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-23 12:32:52,751 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-23 12:32:52,751 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-23 12:34:42,881 - lightrag - INFO - Logger initialized for working directory: ./gov_china
+2024-11-23 12:34:42,881 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-23 12:34:42,882 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-23 12:34:42,882 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-23 12:34:42,882 - lightrag - INFO - Loaded graph from ./gov_china/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-23 12:34:42,884 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-23 12:34:43,132 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-23 12:34:43,132 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-23 12:34:43,133 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-23 12:36:04,497 - lightrag - INFO - Logger initialized for working directory: ./gov_china
+2024-11-23 12:36:04,497 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-23 12:36:04,497 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-23 12:36:04,497 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-23 12:36:04,498 - lightrag - INFO - Loaded graph from ./gov_china/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-23 12:36:04,499 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-23 12:36:04,750 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-23 12:36:04,750 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-23 12:36:04,751 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-23 12:36:44,317 - lightrag - INFO - Logger initialized for working directory: ./gov_china
+2024-11-23 12:36:44,317 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-23 12:36:44,318 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-23 12:36:44,318 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-23 12:36:44,319 - lightrag - INFO - Loaded graph from ./gov_china/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-23 12:36:44,320 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-23 12:36:44,561 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-23 12:36:44,561 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-23 12:36:44,562 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-23 12:38:06,699 - lightrag - INFO - Logger initialized for working directory: ./gov_china
+2024-11-23 12:38:06,699 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-23 12:38:06,700 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-23 12:38:06,700 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-23 12:38:06,701 - lightrag - INFO - Loaded graph from ./gov_china/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-23 12:38:06,702 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-23 12:38:06,953 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-23 12:38:06,953 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-23 12:38:08,354 - lightrag - INFO - [Entity Extraction]...
+2024-11-23 12:38:25,520 - lightrag - INFO - Inserting 75 vectors to entities
+2024-11-23 12:38:29,744 - lightrag - INFO - Inserting 60 vectors to relationships
+2024-11-23 12:38:31,886 - lightrag - INFO - Writing graph with 76 nodes, 60 edges
+2024-11-23 12:38:56,128 - lightrag - INFO - Logger initialized for working directory: ./gov_china
+2024-11-23 12:38:56,128 - lightrag - INFO - Load KV llm_response_cache with 14 data
+2024-11-23 12:38:56,129 - lightrag - INFO - Load KV full_docs with 1 data
+2024-11-23 12:38:56,129 - lightrag - INFO - Load KV text_chunks with 7 data
+2024-11-23 12:38:56,131 - lightrag - INFO - Loaded graph from ./gov_china/graph_chunk_entity_relation.graphml with 76 nodes, 60 edges
+2024-11-23 12:38:56,134 - lightrag - WARNING - All docs are already in the storage
+2024-11-23 12:38:57,257 - lightrag - INFO - Truncate 7 to 3 chunks
+2024-11-23 12:39:03,875 - lightrag - INFO - Local query uses 60 entites, 59 relations, 3 text units
+2024-11-23 12:39:10,004 - lightrag - INFO - Global query uses 61 entites, 60 relations, 3 text units
+2024-11-23 12:39:13,339 - lightrag - INFO - Local query uses 60 entites, 59 relations, 3 text units
+2024-11-23 12:39:15,247 - lightrag - INFO - Global query uses 61 entites, 60 relations, 3 text units
+2024-11-23 12:40:46,075 - lightrag - INFO - Logger initialized for working directory: ./gov_china
+2024-11-23 12:40:46,075 - lightrag - INFO - Load KV llm_response_cache with 19 data
+2024-11-23 12:40:46,076 - lightrag - INFO - Load KV full_docs with 1 data
+2024-11-23 12:40:46,076 - lightrag - INFO - Load KV text_chunks with 7 data
+2024-11-23 12:40:46,080 - lightrag - INFO - Loaded graph from ./gov_china/graph_chunk_entity_relation.graphml with 76 nodes, 60 edges
+2024-11-23 12:40:46,083 - lightrag - WARNING - All docs are already in the storage
+2024-11-23 12:40:46,671 - lightrag - INFO - Truncate 7 to 3 chunks
+2024-11-23 12:40:51,918 - lightrag - INFO - Local query uses 60 entites, 57 relations, 3 text units
+2024-11-23 12:40:56,438 - lightrag - INFO - Global query uses 61 entites, 60 relations, 3 text units
+2024-11-23 12:40:58,850 - lightrag - INFO - Local query uses 60 entites, 57 relations, 3 text units
+2024-11-23 12:40:59,186 - lightrag - INFO - Global query uses 61 entites, 60 relations, 3 text units
