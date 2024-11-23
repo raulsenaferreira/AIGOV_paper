@@ -18,6 +18,8 @@ question = """these are the characteristics of my sw
 }
 How is it complaiant to data requirement legislation in china?"""
 
+answer_path = "q3_ex1.md"
+
 
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
@@ -70,7 +72,7 @@ def write_to_md(file, section_title, content):
     file.write(f"## {section_title}\n")
     file.write(f"{content}\n\n")
 
-with open("q2_ex1.md", "w") as md_file:
+with open(answer_path, "w") as md_file:
     # Write the title of the discussion
     md_file.write(f"# question: {question}\n\n")
 
