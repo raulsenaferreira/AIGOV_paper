@@ -1,0 +1,7 @@
+Task: [Insert task description].  
+Q: [Insert question].  
+A: Let's think step by step.  
+1. [Reasoning step 1].  
+2. [Reasoning step 2].  
+3. [Reasoning step 3].  
+Conclusion: [Final answer].  
