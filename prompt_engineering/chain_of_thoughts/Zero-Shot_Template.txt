@@ -1,0 +1,2 @@
+Q: [Insert question].  
+A: Let me think step by step: [reasoning steps].  
