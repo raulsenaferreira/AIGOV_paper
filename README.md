@@ -1,7 +1,7 @@
 # AIGOV_paper
-Code for the paper LLM-based Framework for AI Governance. This repository is under development; we are improving the code and organization and uploading new versions of it.
+Code for the paper LLM-based Framework for AI Governance. This repository is under development; we are improving the code and organization and uploading new versions.
 
-The repository is organized in two main folders: RAG and General Tools.
+The repository is organized in three main folders: RAG, General Tools, and Prompt Engineering.
 
 You can use them independently. Inside each directory, you will find a README with installation instructions.
 
