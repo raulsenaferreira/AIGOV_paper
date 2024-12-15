@@ -1,0 +1,10 @@
+Task: [Insert the task or problem].  
+Examples:  
+- Q: [Insert example question].  
+  A: First, [reasoning step 1]. Then, [reasoning step 2]. Finally, [conclusion].  
+- Q: [Insert another example question].  
+  A: First, [reasoning step 1]. Then, [reasoning step 2]. Finally, [conclusion].  
+
+Now answer this question:  
+Q: [Insert new question].  
+A: Let's reason step by step: [reasoning steps].  
