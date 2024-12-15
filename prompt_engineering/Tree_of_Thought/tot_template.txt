@@ -1,0 +1,11 @@
+Task: [Insert problem description].  
+Let's explore multiple approaches step by step:  
+1. Thought 1: [Initial reasoning path, with sub-reasons].  
+   - Sub-thought 1.1: [Elaboration].  
+   - Sub-thought 1.2: [Elaboration].  
+
+2. Thought 2: [Alternative reasoning path, with sub-reasons].  
+   - Sub-thought 2.1: [Elaboration].  
+   - Sub-thought 2.2: [Elaboration].  
+
+Final Decision: [Converge on the most viable solution or answer].  
